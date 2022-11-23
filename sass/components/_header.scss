@@ -1,0 +1,20 @@
+.header-nav {
+    background-color: var(--color-hero);
+}
+.header-nav__portfolio {
+    border-bottom: 1px solid var(--color-border);
+}
+.header-container {
+    display: flex;
+    align-items: center;
+}
+.contact-group {
+    display: flex;
+    align-items: center;
+}
+.header-nav__link.header-mail__link {
+    margin-right: 50px;
+}
+.contacts-group__icon {
+    margin-right: 10px;
+}

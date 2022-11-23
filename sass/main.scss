@@ -1,0 +1,32 @@
+// utils styles
+@import './utils/variables';
+@import './utils/v-hidden';
+
+// base styles
+@import './base/base';
+@import './base/reset';
+
+// components styles
+@import './components/conteiner';
+@import './components/topography';
+@import './components/buttons';
+@import './components/header';
+@import './components/logo';
+@import './components/navigation';
+@import './components/hero';
+@import './components/features';
+@import './components/about';
+@import './components/overlay-box';
+@import './components/team';
+@import './components/socials-team';
+@import './components/clients';
+@import './components/footer';
+@import './components/logo-footer';
+@import './components/footer-contact';
+@import './components/footer-socials';
+@import './components/footer-send';
+@import './components/galery';
+@import './components/galery-filter';
+@import './components/projects';
+@import './components/modal';
+@import './components/animation';

@@ -1,0 +1,16 @@
+.contact-item:not(:last-child) {
+    margin-bottom: 9px;
+}
+.footer-addres {
+    margin-right: 70px;
+}
+.footer-link {
+    transition-property: color;
+    transition-duration: 250ms;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+
+    &:hover,
+    &:focus {
+        color: var(--color-hover);
+    }
+}
