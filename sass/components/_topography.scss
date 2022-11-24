@@ -32,8 +32,8 @@
         letter-spacing: 0.02em;
         color: var(--color-title);
 }
-.header-nav__link.header-mail__link,
-.header-nav__link.header-tel__link {
+.contact-group__link--mail,
+.contact-group__link--tel {
         font-weight: 500;
         font-size: 14px;
         line-height: 1.14;
@@ -86,7 +86,7 @@
         letter-spacing: 0.03em;
         color: var(--color-title);
 }
-.overlay__text {
+.overlay-box__text {
         font-weight: 700;
         font-size: 14px;
         line-height: 1.14;
@@ -105,14 +105,14 @@
         letter-spacing: 0.03em;
         color: var(--color-title);
 }
-.team__text {
+.image-name__text {
         font-size: 16px;
         line-height: 1.1875;
         text-align: center;
         letter-spacing: 0.03em;
         color: var(--color-text);
 }
-.image__title {
+.image-name__title {
         font-weight: 500;
         font-size: 16px;
         line-height: 1.1875;

@@ -12,7 +12,12 @@
     display: flex;
     align-items: center;
 }
-.header-nav__link.header-mail__link {
+.contact-group__link:hover,
+.contact-group__link:focus {
+    color: var(--color-hover);
+    fill: var(--color-hover);
+}
+.contact-group__link--mail {
     margin-right: 50px;
 }
 .contacts-group__icon {
